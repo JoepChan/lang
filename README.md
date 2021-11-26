@@ -1,3 +1,7 @@
+from https://github.com/DoctorWkt/acwj
+
+
+
 data.h PutBack作用 
    在scan.cpp获取数据下标后 会再次取一个字符
    如果不是数字类型 就需要保留这个字符 PutBack作用就是用来保留这个字符
