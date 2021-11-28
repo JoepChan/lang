@@ -2,8 +2,8 @@
 // Created by Administrator on 2021/11/25.
 //
 
-#ifndef LANG_DEFS_H
-#define LANG_DEFS_H
+#ifndef DEFS_H
+#define DEFS_H
 
 //Token types
 enum{
